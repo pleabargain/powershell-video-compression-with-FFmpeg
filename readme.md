@@ -3,6 +3,8 @@
 This script uses FFmpeg to compress video files in a specified folder.
 
 
+# repo
+https://github.com/pleabargain/powershell-video-compression-with-FFmpeg
 
 # why
 Had a file I wanted to pass via discord. Discord has a file size limit of 10mb. So I needed to compress the video. Ergo, this script. I 'wrote' it with Anthropic.
